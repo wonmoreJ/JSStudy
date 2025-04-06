@@ -18,7 +18,7 @@
 
   content.innerHTML = imgAdd;
 }
-
+ 
 getImage();
 */
 

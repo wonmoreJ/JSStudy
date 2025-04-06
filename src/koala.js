@@ -5,7 +5,7 @@ async function getImage() {
   const content = document.querySelector(".content");
   let arr = data.photos;
   let imgAdd = "";
-
+ 
   const reulstArr = arr.filter((idx) => idx.name === "koala");
   console.log(reulstArr);
 

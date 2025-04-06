@@ -16,7 +16,6 @@ async function getImage() {
   });
   content.innerHTML = imgAdd;
 }
-
 getImage();
 */
 
