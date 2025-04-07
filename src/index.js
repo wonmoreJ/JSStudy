@@ -16,7 +16,7 @@ async function getImage() {
   });
   content.innerHTML = imgAdd;
 }
-getImage();
+getImage();  
 */
 
 //강의코드
